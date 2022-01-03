@@ -29,7 +29,19 @@ $(document).ready(function(){
         $('.a-5').addClass('animate__animated animate__fadeInUp')
     },
     {
-        offset: "510px"
+        offset: "530px"
+    });
+    $('.a-6').waypoint(function(direction){
+        $('.a-6').addClass('animate__animated animate__fadeInLeft')
+    },
+    {
+        offset: "530px"
+    });
+    $('.a-7').waypoint(function(direction){
+        $('.a-7').addClass('animate__animated animate__fadeInRight')
+    },
+    {
+        offset: "530px"
     });
   
 });
