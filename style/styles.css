@@ -1,0 +1,141 @@
+#myNav
+{
+    height: 100px;
+    background-color:aqua;
+    
+}
+.first
+{
+    height: 320px;
+ 
+    background: url('/images/services-1.jpg');
+    background-size:     cover;                    
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    
+}
+.services
+{
+    box-shadow: 3px 2px 3px 2px black;
+    width:fit-content;
+    border-radius: 2px;
+    padding: 10px 10px 10px 10px;
+}
+
+   
+.underline
+{
+    width: 70px;
+    height: 2.5px;
+    background-color: black;
+}
+
+.nav-style {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.carousel-size {
+    height: 500px;;
+}
+
+.sec-edit {
+    height: 530px;
+}
+
+.about {
+    height: 750px;
+}
+
+.icon {
+    color: white;
+    margin: 3%;
+    font-size: 20px;
+}
+
+.sec {
+    padding-top: 8%;
+    padding-left: 18%;
+}
+
+.para {
+    color: white;
+}
+
+.hline {
+    color: #34ccfe;
+    font-weight: 1000;
+    padding-bottom: 4%;
+}
+
+.ab {
+    color: white;
+    padding-top: 7%;
+    font-size: 30px;
+    font-weight:500;
+}
+
+.carouselsize {
+    height: 250px;;
+}
+
+.ba {
+    font-size: 30px;
+    font-weight:500;
+}
+
+.hline1 {
+    color: #34ccfe;
+    font-weight: 1000;
+}
+
+footer a {
+    text-decoration: none;
+}
+/* footer */
+
+
+ footer {
+     padding:40px;
+    background:#171b26 !important;
+    color:white
+ }
+ 
+.hline2 {
+    color: #34ccfe;
+    font-weight: 1000;
+    padding-bottom: 2%;
+}
+ 
+ .sub-footer  {
+     background:#363636;
+    padding:30px;
+    color: floralwhite;
+    text-align: center;
+ }
+ 
+ footer h4 {
+     padding-top: 30px;
+     margin-bottom:10px;
+     text-shadow:none;
+     font-weight:550;
+     color:#fff;
+ }
+ 
+ .mobile{
+   margin-left: -1cm;
+ }
+ 
+ .link-color{
+ color:white;
+ }
+
+ .a-1, .a-2, .a-3, .a-4, .a-5
+{
+    opacity: 0;
+}
+.animate__animated 
+{
+    opacity: 1;
+}
